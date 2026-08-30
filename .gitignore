@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (datasets are not part of this repository)
+data/
+*.csv
+*.gexf
+*.net
+mails.txt
+departments.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
