@@ -13,7 +13,7 @@ Coursework project — BSc in Applied Data Science, Universitat Oberta de Catalu
 
 Three Jupyter notebooks (developed on Google Colab) applying graph analysis with NetworkX, from basic metrics to a full pipeline on a 1.4M-tweet dataset.
 
-> Notebook narrative is in Spanish (the original analysis cells are preserved as written). Section headers and this README are in English.
+> Notebook narrative translated to English from the original Spanish; printed outputs and figure labels are shown as originally executed (in Spanish).
 
 ## Objective
 
